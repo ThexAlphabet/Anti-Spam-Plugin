@@ -1,0 +1,4 @@
+name: Spam
+version: '${project.version}'
+main: dev.xalphabet.spam.Spam
+api-version: '1.20'

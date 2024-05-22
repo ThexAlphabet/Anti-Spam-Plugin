@@ -1,0 +1,4 @@
+name: Spam
+version: '1.0-SNAPSHOT'
+main: dev.xalphabet.spam.Spam
+api-version: '1.20'
